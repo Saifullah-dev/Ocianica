@@ -19,3 +19,12 @@ body, html {
 .nav_list {
     font-size: 20px;
 }
+
+a {
+    text-decoration: none !important;
+    color: inherit !important;
+}
+
+a:hover {
+    color: #60F7FF !important;
+}
