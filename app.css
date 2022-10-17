@@ -1,0 +1,21 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: 'Alef', sans-serif !important;
+}
+.backgroundImage {
+    background-image: url(images/dark_water);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 803px;
+    width: 100%;
+}
+
+.logo {
+    height: 21.93px;
+    width: 32.5px;
+}
+
+.nav_list {
+    font-size: 20px;
+}
