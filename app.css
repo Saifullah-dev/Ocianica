@@ -28,3 +28,12 @@ a {
 a:hover {
     color: #60F7FF !important;
 }
+
+.mainHeading {
+    font-size: 65px;
+    font-weight: bold;
+}
+
+.heroSection {
+    margin-top: 125px !important;
+}
